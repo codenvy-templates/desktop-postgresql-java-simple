@@ -1,1 +1,1 @@
-{"type":"maven","attributes":{},"runners":{"default":"system:/java-standalone-postgresql/default","configs":{}},"builders":{"default":"maven"}}
+{"type":"maven","attributes":{},"runners":{"default":"system:/java/standalone/db/postgresql","configs":{}},"builders":{"default":"maven"}}
